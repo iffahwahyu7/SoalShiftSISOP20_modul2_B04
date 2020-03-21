@@ -1,7 +1,7 @@
 # SoalShiftSISOP20_modul2_B04
 
-## Iffah Wahyu Roshifa (05111840000018) 
-## Kenji Hikmatullah (05111840000074) 
+#### Iffah Wahyu Roshifa (05111840000018) 
+#### Kenji Hikmatullah (05111840000074) 
 
 ## Soal 1
 
